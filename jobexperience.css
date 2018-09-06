@@ -1,0 +1,41 @@
+div.name {
+  border: 2px solid black;
+  text-align: center;
+}
+
+body {
+  background-color: #99e9ff;
+}
+
+.class {
+  padding-left: 20px;
+}
+
+div a {
+  margin-top: 20px;
+}
+
+body {
+  margin: 20px auto;
+  border: 20px solid #bdc3c7;
+  text-align: center;
+  padding: 20px;
+  height: auto;
+  width: 650px;
+  /*
+The max-width will shrink the text as the page 
+gets smaller*/
+  max-width: 80%;
+}
+
+.text {
+  text-decoration: underline;
+}
+
+.class {
+  padding-left: 20%;
+}
+
+.test {
+  float: center;
+}
